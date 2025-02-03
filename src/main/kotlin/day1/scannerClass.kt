@@ -27,8 +27,9 @@ fun add(a: Int, b: Int): Int {
 
 }
 
-fun division(x: Int, y: Int) {
+fun division(x: Int, y: Int):Int {
     var num = x / y
+    return x/y
 
 
 }
